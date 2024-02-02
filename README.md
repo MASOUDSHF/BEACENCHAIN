@@ -3,7 +3,7 @@ SKRIPT
 ۱- نیاز به یک والت اتریومم دارید که پرایویسی کی رو کپی کنید و توش هم فاست اتریوم سپولیا داشته باشید  
 
 
-sudo apt install npm
+sudo apt install npmDFH
 
 npm install -g yarn 
 
